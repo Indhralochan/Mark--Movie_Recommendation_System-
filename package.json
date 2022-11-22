@@ -1,0 +1,19 @@
+{
+  "name": "movie_recommendor-main",
+  "version": "1.0.0",
+  "description": "this is a movie recommendation system which cosine similarity to recommend movies for the users according to their tastes",
+  "main": "app.py",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Indhralochan/Movie_Recommendation_System.git"
+  },
+  "author": "Indhralochan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Indhralochan/Movie_Recommendation_System/issues"
+  },
+  "homepage": "https://github.com/Indhralochan/Movie_Recommendation_System#readme"
+}
