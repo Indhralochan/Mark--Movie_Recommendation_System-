@@ -1,6 +1,4 @@
 import pickle
-import re
-from tkinter import Menu
 import streamlit as st
 import pip._vendor.requests as requests
 import bz2
