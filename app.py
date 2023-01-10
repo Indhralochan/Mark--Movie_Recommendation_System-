@@ -50,7 +50,7 @@ def fetch_popularity(movie_id):
 def arraytostrings(val):
         x=''
         x=','.join(val)
-        return x;    
+        return x
 def recommend(movie):
     index = movies[movies['title'] == movie].index[0]
     distances = sorted(list(enumerate(similarity[index])), reverse=True, key=lambda x: x[1])
