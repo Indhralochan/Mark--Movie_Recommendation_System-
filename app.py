@@ -17,7 +17,7 @@ footer:after{
     display:block;
     position:relative;
     color:white;
-    
+
 
 }
 </style>
@@ -179,4 +179,4 @@ if st.button('Show Recommendation'):
         st.text("Cast : "+" \n")
         st.markdown(recommended_movie_cast[9])
         st.write("Popularity of this movies is :",recommended_movie_popularity[9]) 
-      
+
